@@ -60,7 +60,7 @@
 {"key":"老六","name":"️老六┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/老六影视.json"},
 {"key":"可可1","name":"️可可┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可可影视.json"},
 {"key":"圣城","name":"️圣城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/sc1080.json"},
-{"key":"骚火","name":"骚火┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/骚火VIP.json"},
+{"key":"骚火","name":"骚火┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/shdy2.json"},
 {"key":"Free","name":"Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 {"key":"蛋蛋","name":"蛋蛋┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/dandan.json"},
 {"key":"奇优","name":"️奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/qiyou.json"},
