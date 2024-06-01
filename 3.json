@@ -1,12 +1,12 @@
 {
-"spider":"./sp/Yoursmile.jar;md5;51B7E397682658465ACA32A34F5BE1D2",
+"spider":"https://pan.ly93.cc/f/ZvRTm/Yoursmile.jar;md5;51B7E397682658465ACA32A34F5BE1D2",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
 {"key":"豆瓣","name":"豆瓣┃热播","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"葡萄","name":"️葡萄┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/putao.json"},
 {"key":"无忧","name":"无忧┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"糯米","name":"农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json","jar":"./sp/fan.txt;md5;e5331c586bf5835734be13338cecf00d"},
+{"key":"糯米","name":"农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json","jar":"https://pan.ly93.cc/f/J81CZ/fan.txt;md5;e5331c586bf5835734be13338cecf00d"},
 {"key":"厂长","name":"厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
 {"key":"天天","name":"天天┃影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Vid","name":"Vid┃影视","type":3,"api":"csp_VidHub","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vidhub1.cc"},
@@ -24,7 +24,7 @@
 {"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"原创┃无广","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"视觉","name":"视觉┃多线","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
-{"key":"热播","name":"热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./sp/fan.txt;md5;e5331c586bf5835734be13338cecf00d"},
+{"key":"热播","name":"热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"https://pan.ly93.cc/f/J81CZ/fan.txt;md5;e5331c586bf5835734be13338cecf00d"},
 {"key":"贱贱","name":"贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./drpy2.min.js","ext":"./lib/jp.js"},
 {"key":"荐片","name":"荐片┃秒播","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"SP360","name":"360┃影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
