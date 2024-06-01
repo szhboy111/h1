@@ -77,6 +77,7 @@
 {"key":"暴風","name":"暴風┃采集","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"七七","name":"七七┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/77.js"},
 {"key":"奇异","name":"官源┃奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
 {"key":"腾讯","name":"官源┃腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
 {"key":"优酷","name":"官源┃优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
