@@ -3,7 +3,6 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-
 //++爬虫
 {"key":"豆瓣","name":"豆瓣┃热播","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"无忧","name":"无忧┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -37,13 +36,13 @@
 {"key":"异界","name":"异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"东岛","name":"日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
 //++t4
-{"key":"T4dj","name":"T4┃短剧","type": 4,"api": "https://catbox.n13.club/t6/mmdj.php"},
-{"key": "T4-剧圈","name": "T4┃剧圈","type": 4,"api": "https://catbox.n13.club/t6/juquan.php"},
-{"key": "T4-极光","name": "T4┃极光","type": 4,"api": "https://catbox.n13.club/t6/jiguang.php"},    
-{"key": "T4-腐剧","name": "T4┃腐剧","type": 4,"api": "https://catbox.n13.club/t6/fuju.php"},
-{"key": "T4-柚子","name": "T4┃柚子","type": 4,"api": "https://catbox.n13.club/t6/yzys.php"},
-{"key": "T4-皮皮","name": "T4┃皮皮","type": 4,"api": "https://catbox.n13.club/t6/pptv.php"},
-{"key": "T4-先生","name": "T4┃先生","type": 4,"api": "https://catbox.n13.club/t6/dyxs.php"},
+{"key":"T4-短剧","name":"T4┃短剧","type": 4,"api": "https://catbox.n13.club/t6/mmdj.php"},
+{"key":"T4-剧圈","name":"T4┃剧圈","type": 4,"api": "https://catbox.n13.club/t6/juquan.php"},
+{"key":"T4-极光","name":"T4┃极光","type": 4,"api": "https://catbox.n13.club/t6/jiguang.php"},    
+{"key":"T4-腐剧","name":"T4┃腐剧","type": 4,"api": "https://catbox.n13.club/t6/fuju.php"},
+//{"key":"T4-柚子","name":"T4┃柚子","type": 4,"api": "https://catbox.n13.club/t6/yzys.php"},
+{"key":"T4-皮皮","name":"T4┃皮皮","type": 4,"api": "https://catbox.n13.club/t6/pptv.php"},
+//{"key":"T4-先生","name":"T4┃先生","type": 4,"api": "https://catbox.n13.club/t6/dyxs.php"},
 // ++ XBPQ
 {"key":"葡萄","name":"️葡萄┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/putao.json"},
 {"key":"哔哩","name":"哔哩┃短剧","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":1,"ext": "./XBPQ/Bili短剧.json"},
