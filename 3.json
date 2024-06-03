@@ -98,7 +98,7 @@
 ],
 
 "parses":[
-{"name":"聚合2","type":3,"url":"web"},
+{"name":"聚合2","type":3,"url":"Web"},
 {"name":"聚合1","type":3,"url":"Demo"},
 {
 		"name": "777",
