@@ -106,7 +106,7 @@
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
 //++drpy-js
-{"key":"畅梦","name":"畅梦┃秒播","type":3,,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/changmeng.js"},
+{"key":"畅梦","name":"畅梦┃秒播","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/changmeng.js"},
 {"key":"奇异","name":"官源┃奇异","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/aiqiyi.js"},
 {"key":"腾讯","name":"官源┃腾讯","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/tengxun.js"},
 {"key":"优酷","name":"官源┃优酷","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/youku.js"},
