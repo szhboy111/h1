@@ -108,8 +108,7 @@
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
 //++drpy-js
 {"key":"畅梦","name":"畅梦┃秒播","type":3,,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js","jar":"./sp/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef"},
-{"key":"奇异","name":"官源┃奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js","jar":"./sp/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef"},},
-{"key":"腾讯","name":"官源┃腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js","jar":"./sp/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef"},
+{"key":"奇异","name":"官源┃奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js","jar":"./sp/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef"},
 {"key":"优酷","name":"官源┃优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js","jar":"./sp/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef"},
 {"key":"搜狗","name":"官源┃搜狗","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/caigou.js","jar":"./sp/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef"},
 {"key":"芒果","name":"官源┃芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js","jar":"./sp/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef"},
