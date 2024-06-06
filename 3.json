@@ -106,13 +106,13 @@
 {"key":"索尼","name":"索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"快帆","name":"快帆┃采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
 //++drpy-js
-{"key":"畅梦","name":"畅梦┃秒播","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/changmeng.js"},
-{"key":"奇异","name":"官源┃奇异","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/aiqiyi.js"},
-{"key":"腾讯","name":"官源┃腾讯","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/tengxun.js"},
-{"key":"优酷","name":"官源┃优酷","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/youku.js"},
-{"key":"搜狗","name":"官源┃搜狗","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/caigou.js"},
-{"key":"芒果","name":"官源┃芒果","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/mangguo.js"},
-{"key":"网飞","name":"网飞┃TV","type":3,"api":"https://raw.kkgithub.com/szhboy111/h1/main/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/szhboy111/h1/main/lib/网飞TV.js"},
+{"key":"畅梦","name":"畅梦┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
+{"key":"奇异","name":"官源┃奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
+{"key":"腾讯","name":"官源┃腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
+{"key":"优酷","name":"官源┃优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
+{"key":"搜狗","name":"官源┃搜狗","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
+{"key":"芒果","name":"官源┃芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
+{"key":"网飞","name":"网飞┃TV","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/网飞TV.js"},
 
 //bilibili教育
 {"key":"拼音","name":"儿童┃拼音","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://dp.sxtv.top:88/json/儿童拼音.json"},
